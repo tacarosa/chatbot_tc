@@ -27,7 +27,7 @@ function App() {
         },
         {
           id: '5',
-          message: 'Have a great day!',
+          message: 'Semoga harimu menyenangkan!',
           end: true,
         },
       ]}
